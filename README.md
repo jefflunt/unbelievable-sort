@@ -23,6 +23,4 @@ p arr
 
 ## Implementation
 
-See [implementation module][impl-module]
-
-  [impl-module]: https://github.com/jefflunt/unbelievable-sort/blob/main/unbelievable_sort.rb)
+See [implementation module](https://github.com/jefflunt/unbelievable-sort/blob/main/unbelievable_sort.rb)

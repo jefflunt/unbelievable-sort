@@ -25,4 +25,4 @@ p arr
 
 See [implementation module][impl-module]
 
-  - [impl-module]: https://github.com/jefflunt/unbelievable-sort/blob/main/unbelievable_sort.rb)
+  [impl-module]: https://github.com/jefflunt/unbelievable-sort/blob/main/unbelievable_sort.rb)
